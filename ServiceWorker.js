@@ -1,4 +1,4 @@
-const cacheName = "University of Patras-F.A.R.E.-1.0";
+const cacheName = "University of Patras-FaRe-1.0";
 const contentToCache = [
     "Build/Thesis.loader.js",
     "Build/Thesis.framework.js",
